@@ -1,4 +1,4 @@
-nome = (input ("Qual seu nome? "))
+nome = input ("Qual seu nome? ")
 peso = float(input ("Qual sua peso? "))
 Altura = float(input ("Qual sua Altura? "))
 
